@@ -1,2 +1,1 @@
-# oykumatik.com
-oykumatik.com
+# Bookstore Jekyll Theme
