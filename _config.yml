@@ -1,7 +1,7 @@
 # Site
-name: 'Genç Damla'
+name: 'Öykümatik'
 language: "tr"
-description: 'Çocuklara Okumayı Sevdiren Yayınevi...'
+description: 'Hikaye Ölçme ve Değerlendirme Sistemi'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
