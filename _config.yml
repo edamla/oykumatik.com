@@ -77,10 +77,24 @@ defaults:
 
   # all authors
   - scope:
-      type: "authors"
-      path: "_authors"
+      type: "grades"
+      path: "_grades"
     values:
-      layout: author
+      layout: grade
+
+  # all authors
+  - scope:
+      type: "concepts"
+      path: "_concepts"
+    values:
+      layout: concept
+
+  # all authors
+  - scope:
+      type: "exams"
+      path: "_exams"
+    values:
+      layout: exam
 
   # all persons
   - scope:
@@ -116,10 +130,14 @@ feed:
   collections:
     books:
       path: "/kitaplar/feed.xml"
-    authors:
-      path: "/yazarlar/feed.xml"
+    exams:
+      path: "/sinavlar/feed.xml"
+    grades:
+      path: "/siniflar/feed.xml"
     illustrators:
       path: "/cizerler/feed.xml"
+    concepts:
+      path: "/baskin-zeka-grubu/feed.xml"
 
 # excerpt
 excerpt_separator: <!--more-->
@@ -147,9 +165,16 @@ collections:
     output: true
     permalink: /kitaplar/:title
     sort_by: publish-number
-  authors:
+  exams:
     output: true
-    permalink: /yazarlar/:title
+    permalink: /sinavlar/:title
+    sort_by: publish-number
+  grades:
+    output: true
+    permalink: /siniflar/:title
+  concepts:
+    output: true
+    permalink: /baskin-zeka-grubu/:title
   illustrators:
     output: true
     permalink: /cizerler/:title
