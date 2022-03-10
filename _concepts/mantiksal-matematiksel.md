@@ -1,8 +1,8 @@
 ---
 layout: concept
-title: "Sözel Dilsel"
-key: "sozel"
-image: assets/images/grades/1.png
+title: "Mantıksal-Matematiksel"
+key: "mantiksal-matematiksel"
+image: assets/images/oykumatik.png
 
 
 

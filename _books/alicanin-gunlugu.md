@@ -3,6 +3,7 @@ layout: book
 title:  "Alican'ın Günlüğü 10 Kitap"
 authors: ["sara-gurbuz-ozeren"]
 grades: ["1"]
+concepts: ["gorsel-uzamsal","sosyal","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831303.jpg

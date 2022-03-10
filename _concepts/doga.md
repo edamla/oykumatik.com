@@ -1,7 +1,7 @@
 ---
-layout: grade
-title: "1. Sınıf"
-key: "1"
+layout: concept
+title: "Doğa"
+key: "doga"
 image: assets/images/oykumatik.png
 
 

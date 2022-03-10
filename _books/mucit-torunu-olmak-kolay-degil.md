@@ -3,7 +3,7 @@ layout: book
 title:  "Mucit-Torunu Olmak Kolay Değil 5 Kitap"
 authors: ["nur-dombayci"]
 grades: ["1"]
-concepts: ["sozel"]
+concepts: ["sozel-dilsel","sosyal","icsel","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051740843.jpg

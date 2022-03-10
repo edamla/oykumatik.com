@@ -1,18 +1,15 @@
 .onlineSinav{
     background-color: #009fd5;
     text-align: center;
-    margin-top: 3vh;
-    margin-bottom: 3vh;
+    margin-top: 2vh;
+    margin-bottom: 1.5vh;
     max-height: 30vh;
 }
 .UyeOlButon{
     padding-left: 5vh;
     padding-right: 5vh;
     margin-bottom: 1.5vh;
-    font-size: 35px;
     font-style: bold;
-    color: #029fd3;
-    background-color: #ffc107;
 }
 .OnlineBaslik{
     color: white;

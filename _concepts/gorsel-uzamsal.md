@@ -1,7 +1,7 @@
 ---
-layout: grade
-title: "1. Sınıf"
-key: "1"
+layout: concept
+title: "Görsel-Uzamsal"
+key: "gorsel-uzamsal"
 image: assets/images/oykumatik.png
 
 

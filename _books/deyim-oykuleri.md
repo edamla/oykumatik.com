@@ -3,6 +3,7 @@ layout: book
 title:  "Deyim Öyküleri 5 Kitap"
 authors: ["sara-gurbuz-ozeren"]
 grades: ["1"]
+concepts: ["mantiksal-matematiksel","gorsel-uzamsal","bedensel-kinestetik","icsel","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053832874.jpg

@@ -1,8 +1,9 @@
 ---
-layout: grade
-title: "1. Sınıf"
-key: "1"
+layout: concept
+title: "İçsel"
+key: "icsel"
 image: assets/images/oykumatik.png
+
 
 
 

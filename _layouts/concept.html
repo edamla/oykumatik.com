@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign concept = page %}
 
-<div class="container">
+<!-- <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
 			<div class="row {% if concept.image %} justify-content-between {% else %} justify-content-center {% endif %}">
@@ -22,7 +22,7 @@ layout: default
                         {% endfor %}
                         </span>
 					</p>
-					<h1 class="display-4 mb-4 article-headline">{{ concept.title }}</h1>
+					<h1 class="display-4 mb-4 article-headline">{{ concept.title }}</h1> -->
 					<!-- <div class="align-items-center">
 						
 							<h6 class="text-muted d-block mt-1">{{ concept.date | date: '%d.%m.%Y' }} · {% include meta-read-time.html %}</h6>
@@ -37,12 +37,12 @@ layout: default
 							<a target="_blank" href="{{ concept.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
 							</div>
 						</div>
-					</div> -->
+					</div> 
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 
 
 
@@ -59,7 +59,7 @@ layout: default
 			</article>
 			
            
-			<h4 class="font-weight-bold spanborder"><span>{{concept.title}} Kitapları</span></h4>
+			<h4 class="font-weight-bold spanborder"><span>{{concept.title}} Zekâ Grubu</span></h4>
 			<div class="row mb-3">
 				{% assign bookarray = "" | split: ',' %}
 							{% for book in site.books %}

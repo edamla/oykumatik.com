@@ -1,7 +1,7 @@
 ---
-layout: grade
-title: "1. Sınıf"
-key: "1"
+layout: concept
+title: "Sözel-Dilsel"
+key: "sozel-dilsel"
 image: assets/images/oykumatik.png
 
 

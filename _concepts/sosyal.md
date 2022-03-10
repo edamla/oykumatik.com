@@ -1,9 +1,8 @@
 ---
-layout: grade
-title: "1. Sınıf"
-key: "1"
+layout: concept
+title: "Sosyal"
+key: "sosyal"
 image: assets/images/oykumatik.png
-
 
 
 categories: #[ cat1, cat2 ]
