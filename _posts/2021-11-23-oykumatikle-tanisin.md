@@ -3,7 +3,7 @@ layout: post
 title:  "Öykümatikle Tanışın"
 authors: [""]
 categories: [  ]
-image: assets/images/posts/oykumatikle-tanisin.jpg
+image: assets/images/posts/oykumatikle-tanisin.png
 tags: []
 sticky: true
 featured: false
