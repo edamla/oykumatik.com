@@ -1,8 +1,8 @@
 ---
 layout: book
 title:  "Alican'ın Günlüğü 10 Kitap"
-authors: ["sara-gurbuz-ozeren"]
-grades: ["1"]
+authors: ["Nehir Aydın Gökduman"]
+grades: ["2" , "3"]
 concepts: ["gorsel-uzamsal","sosyal","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -14,7 +14,7 @@ previewpage: true
 # Book attributes
 ean: 9786053831303
 languages: ["Türkçe"]
-page: 480
+page: Her Biri 48
 size: "14x20cm"
 publish-number: 1
 cover: "Karton Kapak"
@@ -30,7 +30,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: # "https://www.damlayayinevi.com.tr/asik-suratli-cocuk-2-bocek-istilasi"
+damlayayinevi:  "https://www.damlayayinevi.com.tr/alican-in-gunlugu-10-kitap"
 
 # For adding excerpt add <!--more--> and break the line
 ---
@@ -38,19 +38,13 @@ Yaşadıklarından ders alan Alican, bunları herkesle paylaşıyor.
 Günlüğünün sayfalarından sevgi, dostluk, kardeşlik fışkırıyor.
 Macera dolu kitaplarda; yardımlaşma, hayvan sevgisi, dayanışma, araştırma, büyüklere saygı, affedebilme, sözünde durma, doğayı koruma, alay etmeme, cesur olma, yalan söylememe ve diğer pek çok erdem Alican'ın dilinden anlatılıyor.
 
-**TEMALAR:**
+**TEMALAR:** Hikayelerle Değerler Eğitimi, Macera, Dotluk, Kardeşlik, Cesaret, Yardımlaşma, Hayvan Sevgisi, Dedektiflik, Macera, Dayanışma, Affetmek, Kardeş Sevgisi, Doğa Sevgisi
 
-• Hikayelerle Değerler Eğitimi, Macera, Dotluk, Kardeşlik, Cesaret, Yardımlaşma, Hayvan Sevgisi, Dedektiflik, Macera, Dayanışma, Affetmek, Kardeş Sevgisi, Doğa Sevgisi
+**KAZANIMLAR:** Topluma, Büyüklerine Saygılı Bireyler Kazandırmak, Sözünde Durmanın Faydalarını Göstermek, Yalan Söylemenin Sakıncalarını Göstermek, Alay Etmenin Kötü Bir Davranış Olduğunu Göstermek, Olumlu Davranış Geliştirme
 
-**KAZANIMLAR:**
+**ETİKETLER:** Macera, Yardımseverlik, Aile Büyüklerine Saygı, Günlük
 
-• Topluma, Büyüklerine Saygılı Bireyler Kazandırmak, Sözünde Durmanın Faydalarını Göstermek, Yalan Söylemenin Sakıncalarını Göstermek, Alay Etmenin Kötü Bir Davranış Olduğunu Göstermek, Olumlu Davranış Geliştirme
-
-**ETİKETLER:**
-
-• Macera, Yardımseverlik, Aile Büyüklerine Saygı, Günlük
-
-**Alican'ın Günlüğü Setin İçerdiği Kitaplar:**
+**Setin İçerdiği Hikayeler**
 
 1- Bir Köpeğim Olsun <br>
 2- Eyvah Koyboldum!<br>
@@ -62,5 +56,8 @@ Macera dolu kitaplarda; yardımlaşma, hayvan sevgisi, dayanışma, araştırma,
 8- Minik Kuş Fıstık<br>
 9- Kaplanlar Dondurma Yemez<br>
 10- Çiko Nerede?
+
+<img style="height: 50vh" src="/assets/images/ean/8697911208629.jpg" alt="">
+
 <!--more--> 
 

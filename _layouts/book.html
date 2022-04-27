@@ -101,7 +101,11 @@ layout: default
 
 							{% if book.authors %}
 							<li class="list-group-item">
-								<div class="md-v-line"></div><i class="fas fa-user-edit mr-1 fa-lg text-primary"></i><span class="mr-1">Yazar:</span>{% for bookauthor in book.authors %} {% assign siteauthor = site.authors | where:"key", bookauthor | first %} <a href="{{siteauthor.url}}">{{ siteauthor.title }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}
+								<div class="md-v-line"></div><i class="fas fa-user-edit mr-1 fa-lg text-primary"></i><span class="mr-1">Yazar:</span>
+								{% for bookauthor in book.authors %} 
+									{{ bookauthor }}
+									{% if forloop.last == false %},{% endif %} 
+								 {% endfor %}
 							</li>
 							{% endif %}
 
@@ -263,32 +267,6 @@ layout: default
 			{% endif %}
 	</div>
 
-	<!-- Books by Author(s) -->
-	<div class="row">
-		<div class="col-12">
-			<h4 class="font-weight-bold spanborder"><span>Yazarın diğer kitapları</span></h4>
-			<div class="row mb-3">
-				
-				{% assign bookarray = "" | split: ',' %}
-				{% for book in site.books %}
-					 {%for bookauthor in page.authors %}
-					 <!-- kitapların içinde bu kitabın yazarlarını filtreledik. -->
-						{% if book.authors contains bookauthor %}
-						<!-- çıktı olarak gelen kitapları bir array içine aldık -->
-							{% assign bookarray = bookarray | push: book %}
-						{%endif %}
-					 {% endfor %}
-				{% endfor %}
-
-				<!-- arayyi uniqleştirdik aynı kitap 2 kere çıkmasın diye. -->
-				{% assign uniqbookArray = bookarray | uniq %}
-				{% assign books = uniqbookArray %}
-				{% include product-slider.html %}
-
-			</div>
-		</div>
-		
-	</div>
 	
 	<!-- Mailchimp Subscribe Form -->
 	<div class="row">

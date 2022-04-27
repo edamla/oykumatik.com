@@ -1,8 +1,8 @@
 ---
 layout: book
 title:  "Deyim Öyküleri 5 Kitap"
-authors: ["sara-gurbuz-ozeren"]
-grades: ["1"]
+authors: ["Fatma Çağdaş"]
+grades: ["3"]
 concepts: ["mantiksal-matematiksel","gorsel-uzamsal","bedensel-kinestetik","icsel","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -14,7 +14,7 @@ previewpage: true
 # Book attributes
 ean: 9786053832874
 languages: ["Türkçe"]
-page: 320
+page: Her Bİri 60
 size: "14x20cm"
 publish-number: 2
 cover: "Karton Kapak"
@@ -30,7 +30,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-1-ugultulu-orman"
-damlayayinevi: #"https://www.damlayayinevi.com.tr/asik-suratli-cocuk-ve-onu-etkilemeyen-siradisi-olaylar-1-ugultulu-orman"
+damlayayinevi: "https://www.damlayayinevi.com.tr/deyim-oykuleri-5-kitap-hds"
 
 # For adding excerpt add <!--more--> and break the line
 ---
@@ -39,23 +39,19 @@ Tarihin derinliklerinden günümüze değin söylenegelen deyimlerimizin her bir
 Bu öyküleri bilmesek de deyimlerimizi sık sık kullanırız.
 "Deyim Öyküleri" adlı serimizde özenle seçilen deyimlerimizin birbirinden ilginç hikâyelerini bulacaksınız.
 
-**TEMALAR:**
+**TEMALAR:** Milli Kültür, Dil Bilim, Birey ve Toplum
 
-• Milli Kültür, Dil Bilim, Birey ve Toplum
+**KAZANIMLAR:** Yeni Deyimler, Kelime Hazinesi, Dil Bilgisi, Türkçe Kazanımları Okuma ve Anlama, Deyimler Sözlüğü Kullanma, Deyimli Konuşma Yeteneği
 
-**KAZANIMLAR:**
+**ETİKETLER:** Deyim, Öykü, Macera, Sevgi, Saygı, Dayanışma, Tarih, Toplum, Birey, Dil Bilim
 
-• Yeni Deyimler, Kelime Hazinesi, Dil Bilgisi, Türkçe Kazanımları Okuma ve Anlama, Deyimler Sözlüğü Kullanma, Deyimli Konuşma Yeteneği
-
-**ETİKETLER:**
-
-• Deyim, Öykü, Macera, Sevgi, Saygı, Dayanışma, Tarih, Toplum, Birey, Dil Bilim
-
-**Deyim Öyküleri Setin İçerdiği Kitaplar:**
+**Setin İçerdiği Hikayeler**
 
 1- Kabak Başıma Patladı<br>
 2- İki Ayağını Bir Pabuca Sokmak<br>
 3- Maymun Gözünü Açtı<br>
 4- Dananın Kuyruğu Koptu<br>
 5- Sarı Çizmeli Mehmet Ağa
+
+<img style="height: 50vh" src="/assets/images/ean/8697911217621.jpg" alt="">
 <!--more--> 

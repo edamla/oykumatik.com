@@ -1,21 +1,22 @@
 ---
-layout: exam
-title:  "Alican'ın Günlüğü HDS"
-grades: ["1"]
+layout: book
+title:  "Hayat Bilgisi Öyküleri 10 Kitap"
+authors: ["Seda Bilgin"]
+grades: ["2" , "3"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/8697911208629.jpg
-categories: [ "Kültür", "Hikaye" ]
+image: assets/images/ean/9786254112676.jpg
+categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
-ean: 8697911208629
+ean: 9786254112676
 languages: ["Türkçe"]
-page: 176
-size: "13,5x21cm"
-publish-number: 50
-cover: "Ciltli"
+page: Her Biri 48
+size: "14x20cm"
+publish-number: 7
+cover: "Karton Kapak"
 
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/asik-suratli-cocuk-2/nur-dombayci/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001812298001"
@@ -28,10 +29,15 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: # "https://www.damlayayinevi.com.tr/asik-suratli-cocuk-2-bocek-istilasi"
+damlayayinevi: # "https://www.damlayayinevi.com.tr/mucit-torunu-olmak-kolay-degil"
 
 # For adding excerpt add <!--more--> and break the line
 ---
+Hayat Bilgisi hayatın ta kendisi…
+Kerem ve arkadaşlarının her günü birbirinden eğlenceli, birbirinden maceralı…
+Haydi, öyleyse sen de katıl onlara. Eğlenerek öğrenmenin tadını çıkar. Hayat Bilgisi konularının, hayatın akışında eğlenceli ve maceralı bir şekilde işlendiği bu kitabı elinden düşüremeyecek ve bir solukta okuyup bitireceksin.
+Haydi ne duruyorsun, okumaya başlasana...
 
+<img style="height: 50vh" src="/assets/images/ean/8697911219199.jpg" alt="">
 <!--more--> 
 

@@ -1,9 +1,8 @@
 ---
 layout: book
-title:  "Mucit-Torunu Olmak Kolay Değil 5 Kitap"
-authors: ["nur-dombayci"]
-grades: ["1"]
-concepts: ["sozel-dilsel","sosyal","icsel","doga"]
+title:  "Mucit Torunu Olmak Kolay Değil 5 Kitap"
+authors: ["Nur Dombaycı"]
+grades: ["2" , "3"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051740843.jpg
@@ -14,9 +13,9 @@ previewpage: true
 # Book attributes
 ean: 9786051740843
 languages: ["Türkçe"]
-page: 240
+page: Her Biri 48
 size: "14x20cm"
-publish-number: 5
+publish-number: 6
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
@@ -30,7 +29,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: #"https://www.damlayayinevi.com.tr/asik-suratli-cocuk-2-bocek-istilasi"
+damlayayinevi: "https://www.damlayayinevi.com.tr/mucit-torunu-olmak-kolay-degil"
 
 # For adding excerpt add <!--more--> and break the line
 ---
@@ -49,24 +48,20 @@ Belki sen de yeni icatlar yaparsın, kim bilir...
 
 Mucit Torunu Olmak Kolay Değil ile sıra dışı, eğlenceli ve komik maceralara hazır ol!
 
-**TEMALAR:**
+**TEMALAR:** Beceri Temelli Eğitim, Sosyal Beceriler, Mizah
 
-• Beceri Temelli Eğitim, Sosyal Beceriler, Mizah
+**KAZANIMLAR:** Mutfak Becerisi, Bahçe Becerisi, Sanat Becerisi, Hayvan Bakımı Becerisi, Sosyal Beceri Sahibi Olmak, Becerikli Kişisel Gelişim
 
-**KAZANIMLAR:**
+**ETİKETLER:** İcat, Keşif, Fotoğrafçılık, Türk-İslam Sanatları, Merak, Eğlence, Komedi
 
-• Mutfak Becerisi, Bahçe Becerisi, Sanat Becerisi, Hayvan Bakımı Becerisi, Sosyal Beceri Sahibi Olmak, Becerikli Kişisel Gelişim
-
-**ETİKETLER:**
-
-• İcat, Keşif, Fotoğrafçılık, Türk-İslam Sanatları, Merak, Eğlence, Komedi
-
-**Mucit Torunu Olmak Kolay Değil! Setin İçerdiği Kitaplar:**
+**Setin İçerdiği Hikayeler**
 
 1- Acemi Aşçılar<br>
 2- Çiçek Coşturan İksiri<br>
 3- Ben Sana Küstüm<br>
 4- Güzel Sanatlara Yolculuk<br>
 5- Aaa! Hayvanlar Konuşuyor
+
+<img style="height: 50vh" src="/assets/images/ean/8697911210769.jpg" alt="">
 <!--more--> 
 

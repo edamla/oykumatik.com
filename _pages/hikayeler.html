@@ -6,19 +6,6 @@ permalink: "/hikayeler"
 
 <div class="container">
 
-<h4 class="font-weight-bold spanborder"><span>Yeni Çıkanlar</span></h4>
-{% assign bookarray = "" | split: ',' %}
-{% assign sortedarray = "" | split: ',' %}
-
-{% assign sortedarray = site.books | sort: "publish-number" | reverse %}
-
-{% for book in sortedarray limit:10 %}
-    {% assign bookarray = bookarray | push: book %}
-{% endfor %}
-
-{% assign books = bookarray %}
-{% include product-slider.html %}
-
 <h4 class="font-weight-bold spanborder mt-3"><span>{{page.title}}</span></h4>
     <div class="row gap-y listrecent listrecent listauthor">
     {% assign groupbooks = site.books | group_by: "authors" | sort: "name" %}

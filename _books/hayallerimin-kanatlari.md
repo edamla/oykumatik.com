@@ -1,8 +1,8 @@
 ---
 layout: book
 title:  "Hayallerimin Kanatları 10 Kitap"
-authors: ["sara-gurbuz-ozeren"]
-grades: ["1"]
+authors: ["Sara Gürbüz Özeren"]
+grades: ["4" , "5"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051745374.jpg
@@ -13,7 +13,7 @@ previewpage: true
 # Book attributes
 ean: 9786051745374
 languages: ["Türkçe"]
-page: 800
+page: Her Biri 80
 size: "14x20cm"
 publish-number: 3
 cover: "Karton Kapak"
@@ -29,7 +29,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: #"https://www.damlayayinevi.com.tr/asik-suratli-cocuk-2-bocek-istilasi"
+damlayayinevi: "https://www.damlayayinevi.com.tr/hayallerimin-kanatlari-10-kitap-hds"
 
 # For adding excerpt add <!--more--> and break the line
 ---
@@ -43,19 +43,13 @@ Geçirdiği kaza sonrasında hayata dört elle sarılır Volkan.
 En büyük destekçisi biricik annesidir.
 "Hayallerimin Kanatları" serisi ile Volkan'ın inatla yeni hayallere kanat çırpmasını, yaptığı her işi bir başarı hikâyesine dönüştürmesini okuyacaksınız.
 
-**TEMALAR:**
+**TEMALAR:** Engellilere Empati, Başarı Ruhu, Psikolojik Motivasyon, Gezi, Macera, Keşif
 
-• Engellilere Empati, Başarı Ruhu, Psikolojik Motivasyon, Gezi, Macera, Keşif
+**KAZANIMLAR:** Yeni Kelimeler Öğrenme, Empatik Düşünce, Diğergamlık
 
-**KAZANIMLAR:**
+**ETİKETLER:** Başarının Anahtarı, Hayal Kurma, Engelli, Yaşam, Empati, İnanç
 
-• Yeni Kelimeler Öğrenme, Empatik Düşünce, Diğergamlık
-
-**ETİKETLER:**
-
-• Başarının Anahtarı, Hayal Kurma, Engelli, Yaşam, Empati, İnanç
-
-**Hayallerimin Kanatları Setin İçerdiği Kitaplar:**
+**Setin İçerdiği Hikayeler**
 
 1- Kayak Şampiyonu<br>
 2- İstersen Yapabilirsin<br>
@@ -67,5 +61,7 @@ En büyük destekçisi biricik annesidir.
 8- Enerji Santrali<br>
 9- Mucize<br>
 10- Annemin Portresi
+
+<img style="height: 50vh" src="/assets/images/ean/8697911200906.jpg" alt="">
 <!--more--> 
 
