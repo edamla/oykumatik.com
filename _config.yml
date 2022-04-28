@@ -28,7 +28,7 @@ permalink: /:title/
 
 # BuyOut Ecommerce
 buyout:
-  enabled: true
+  enabled: false
   #buyout websites:
   damlayayinevi: true
   hepsiburada: true
