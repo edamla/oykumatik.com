@@ -1,11 +1,11 @@
 ---
-title: "Öykümatikle Tanışın"
 layout: page
-permalink: "/oykumatikle-tanisin"
+title:  "Öykümatikle Tanışın"
 image: assets/images/posts/oykumatikle-tanisin.png
-comments: false
+sticky: true
+featured: false
+# For adding excerpt add <!--more--> and break the line
 ---
-
 Türkiye'de ilk ve tek Damla Yayın Kurulu Tarafından Geliştirilen **Hikâye Müfredatı**
 
 **Öykümatik - Hikâye Ölçe ve Değerlendirme Sistemi Nedir?**
