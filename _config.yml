@@ -163,7 +163,7 @@ sass:
 collections:
   books:
     output: true
-    permalink: /kitaplar/:title
+    permalink: /hikayeler/:title
     sort_by: publish-number
   exams:
     output: true

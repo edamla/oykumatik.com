@@ -7,12 +7,14 @@ concepts: ["sozel-dilsel","mantiksal-matematiksel","icsel","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831952.jpg
+examimage: assets/images/ean/8697911217003.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
 ean: 9786053831952
+examean: 8697911217003
 languages: ["Türkçe"]
 page: Her Biri 64
 size: "14x20cm"

@@ -15,3 +15,13 @@
     color: white;
     margin-top: 1vh;
 }
+
+/* .tns-outer{
+    min-height: 150px;
+}
+.tns-inner{
+    min-height: 150px;
+} */
+#product-slider-mw{
+    min-height: 17vh !important;
+}

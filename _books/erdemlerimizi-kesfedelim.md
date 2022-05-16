@@ -1,24 +1,24 @@
 ---
 layout: book
-title:  "Hayat Bilgisi Öyküleri 10 Kitap"
-authors: ["Seda Bilgin"]
-grades: ["2" , "3"]
+title:  "Erdemlerimizi Keşfedelim 10 Kitap"
+authors: ["Sara Gürbüz Özeren"]
+grades: ["2"]
 concepts: [""]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786254112676.jpg
-examimage: assets/images/ean/8697911219199.jpg
+image: assets/images/ean/9786053831181.jpg
+examimage: assets/images/ean/8697911210790.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
-ean: 9786254112676
-examean: 8697911219199
+ean: 9786053831181
+examean: 8697911210790
 languages: ["Türkçe"]
 page: Her Biri 48
 size: "14x20cm"
-publish-number: 7
+publish-number: 8
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
@@ -36,11 +36,32 @@ damlayayinevi: # "https://www.damlayayinevi.com.tr/mucit-torunu-olmak-kolay-degi
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Hayat Bilgisi hayatın ta kendisi…
-Kerem ve arkadaşlarının her günü birbirinden eğlenceli, birbirinden maceralı…
-Haydi, öyleyse sen de katıl onlara. Eğlenerek öğrenmenin tadını çıkar. Hayat Bilgisi konularının, hayatın akışında eğlenceli ve maceralı bir şekilde işlendiği bu kitabı elinden düşüremeyecek ve bir solukta okuyup bitireceksin.
-Haydi ne duruyorsun, okumaya başlasana...
+İnsanı insan yapan, insanı yücelten, keşfedilmeyi bekleyen erdemlerimiz…
+Hepsi “Erdemlerimizi Keşfedelim” kitaplarında…
+Kitaplar, hayat bilgisi kazanımları ile uyumludur. Edinilecek kazanımlar kitap başlangıçlarında verilmiştir.
 
-<img style="height: 50vh" src="/assets/images/ean/8697911219199.jpg" alt="">
+Haksızlık Yapmamak - Dürüstlük - İyi yürekli olmak - Fedakârlık - Doğayı Korumak - Affetmek - Vefalı Olmak - Özür Dilemeyi Bilmek - Kanaatkârlık - Saygı - Yardımseverlik - Yalan Söylememek - Cesaret - Paylaşmak - Böbürlenmemek
+
+1- Uzaydan Gelenler
+
+2- Ben Kırmadım
+
+3- Baba Penguenin Fedakârlığı
+
+4- Açgözlü Kurt
+
+5- Çınarın Feryadı
+
+6- Güneşin Öfkesi
+
+7- Vefalı At
+
+8- Nene Hatun
+
+9- Dağınık Emre’nin Rüyası
+
+10- Hayat Ağacı
+
+<img style="height: 50vh" src="/assets/images/ean/8697911210790.jpg" alt="">
 <!--more--> 
 

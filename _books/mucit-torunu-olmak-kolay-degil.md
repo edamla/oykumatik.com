@@ -7,12 +7,14 @@ concepts: ["sozel-dilsel","sosyal","icsel","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051740843.jpg
+examimage: assets/images/ean/8697911210769.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
 ean: 9786051740843
+examean: 8697911210769
 languages: ["Türkçe"]
 page: Her Biri 48
 size: "14x20cm"

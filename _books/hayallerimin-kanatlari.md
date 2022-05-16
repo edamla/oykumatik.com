@@ -7,12 +7,14 @@ concepts: ["gorsel-uzamsal","bedensel-kinestetik","mantiksal-matematiksel","icse
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051745374.jpg
+examimage: assets/images/ean/8697911200906.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
 ean: 9786051745374
+examean: 8697911200906
 languages: ["Türkçe"]
 page: Her Biri 80
 size: "14x20cm"

@@ -7,12 +7,14 @@ concepts: [""]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254112560.jpg
+examimage: assets/images/ean/8697911219137.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
 ean: 9786254112560
+examean: 8697911219137
 languages: ["Türkçe"]
 page: Her Biri 64
 size: "14x20cm"

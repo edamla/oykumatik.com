@@ -7,12 +7,14 @@ concepts: ["gorsel-uzamsal","sosyal","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831303.jpg
+examimage: assets/images/ean/8697911208629.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
 ean: 9786053831303
+examean: 8697911208629
 languages: ["Türkçe"]
 page: Her Biri 48
 size: "14x20cm"

@@ -7,12 +7,14 @@ concepts: [""]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053832874.jpg
+examimage: assets/images/ean/8697911217621.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
 ean: 9786053832874
+examean: 8697911217621
 languages: ["Türkçe"]
 page: Her Bİri 60
 size: "14x20cm"
