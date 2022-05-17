@@ -4,7 +4,7 @@ title:  "Müfredat"
 authors: [""]
 categories: [  ]
 tags: []
-sticky: true
+sticky: false
 featured: false
 # For adding excerpt add <!--more--> and break the line
 ---
@@ -17,5 +17,5 @@ kodunda;
 
 - **H: Hikâye Değerlendirme Müfredatını,**
 1. **Kavramsal Süreçler:** Olay Örgüsünü,
- 2. **Bilişsel Süreçler:** 2D Uygulama (Bilgiyi kullanma) Basamağını,
-1. **Kazanım Numarası:** Olayları oluş sırasına göre yazar. Kazanımını ifade etmektedir.
+2. **Bilişsel Süreçler:** 2D Uygulama (Bilgiyi kullanma) Basamağını,
+    1. **Kazanım Numarası:** Olayları oluş sırasına göre yazar. Kazanımını ifade etmektedir.
