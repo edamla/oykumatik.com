@@ -40,7 +40,7 @@ Yaşadıklarından ders alan Alican, bunları herkesle paylaşıyor.
 Günlüğünün sayfalarından sevgi, dostluk, kardeşlik fışkırıyor.
 Macera dolu kitaplarda; yardımlaşma, hayvan sevgisi, dayanışma, araştırma, büyüklere saygı, affedebilme, sözünde durma, doğayı koruma, alay etmeme, cesur olma, yalan söylememe ve diğer pek çok erdem Alican'ın dilinden anlatılıyor.
 
-**TEMALAR:** Hikayelerle Değerler Eğitimi, Macera, Dotluk, Kardeşlik, Cesaret, Yardımlaşma, Hayvan Sevgisi, Dedektiflik, Macera, Dayanışma, Affetmek, Kardeş Sevgisi, Doğa Sevgisi
+**TEMALAR:** Hikayelerle Değerler Eğitimi, Macera, Dostluk, Kardeşlik, Cesaret, Yardımlaşma, Hayvan Sevgisi, Dedektiflik, Macera, Dayanışma, Affetmek, Kardeş Sevgisi, Doğa Sevgisi
 
 **KAZANIMLAR:** Topluma, Büyüklerine Saygılı Bireyler Kazandırmak, Sözünde Durmanın Faydalarını Göstermek, Yalan Söylemenin Sakıncalarını Göstermek, Alay Etmenin Kötü Bir Davranış Olduğunu Göstermek, Olumlu Davranış Geliştirme
 

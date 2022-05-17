@@ -6,7 +6,7 @@ grades: ["2" , "3"]
 concepts: ["sozel-dilsel","sosyal","icsel","doga"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786051740843.jpg
+image: assets/images/ean/bas.jpg
 examimage: assets/images/ean/8697911210769.jpg
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Müfredat"
+title:  "Hikâye Müfredatı"
 authors: [""]
 categories: [  ]
 tags: []

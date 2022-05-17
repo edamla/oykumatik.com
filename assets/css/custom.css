@@ -25,3 +25,6 @@
 #product-slider-mw{
     min-height: 17vh !important;
 }
+.card{
+    border: 0px !important;
+}
