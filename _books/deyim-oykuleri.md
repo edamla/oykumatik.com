@@ -2,8 +2,9 @@
 layout: book
 title:  "Deyim Öyküleri 5 Kitap"
 authors: ["Fatma Çağdaş"]
-grades: ["3"]
+grades: [3]
 concepts: [""]
+subjects: ["Tema1"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053832874.jpg

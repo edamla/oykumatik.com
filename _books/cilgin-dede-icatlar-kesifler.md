@@ -2,8 +2,9 @@
 layout: book
 title:  "Çılgın Dedemin Zaman Makinesi-1 10 Kitap"
 authors: ["Sara Gürbüz Özeren"]
-grades: ["3", "4"]
+grades: [3, 4]
 concepts: ["sozel-dilsel","mantiksal-matematiksel","icsel","doga"]
+subjects: ["Tema1", "Tema2"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831952.jpg

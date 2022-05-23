@@ -1,7 +1,7 @@
 # Site
 name: 'Öykümatik'
 language: "tr"
-description: 'Hikaye Ölçme ve Değerlendirme Sistemi'
+description: 'Öykü, Hikaye Ölçme ve Değerlendirme Sistemi'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
@@ -75,47 +75,13 @@ defaults:
     values:
       layout: book
 
-  # all authors
-  - scope:
-      type: "grades"
-      path: "_grades"
-    values:
-      layout: grade
-
-  # all authors
+  # all concepts
   - scope:
       type: "concepts"
       path: "_concepts"
     values:
       layout: concept
 
-  # all authors
-  - scope:
-      type: "exams"
-      path: "_exams"
-    values:
-      layout: exam
-
-  # all persons
-  - scope:
-      type: "persons"
-      path: "_persons"
-    values:
-      layout: person
-
-  # all illustrators
-  - scope:
-      type: "illustrators"
-      path: "_illustrators"
-    values:
-      layout: illustrator
-
-  # all translators
-  - scope:
-      type: "translators"
-      path: "_translators"
-    values:
-      layout: translator
   # all slides
   - scope:
       type: "slides"
@@ -130,12 +96,6 @@ feed:
   collections:
     books:
       path: "/kitaplar/feed.xml"
-    exams:
-      path: "/sinavlar/feed.xml"
-    grades:
-      path: "/siniflar/feed.xml"
-    illustrators:
-      path: "/cizerler/feed.xml"
     concepts:
       path: "/baskin-zeka-grubu/feed.xml"
 
@@ -165,25 +125,9 @@ collections:
     output: true
     permalink: /hikayeler/:title
     sort_by: publish-number
-  exams:
-    output: true
-    permalink: /sinavlar/:title
-    sort_by: publish-number
-  grades:
-    output: true
-    permalink: /siniflar/:title
   concepts:
     output: true
     permalink: /baskin-zeka-grubu/:title
-  illustrators:
-    output: true
-    permalink: /cizerler/:title
-  translators:
-    output: true
-    permalink: /cevirmenler/:title
-  persons:
-    output: true
-    permalink: /sahsiyetler/:title
   slides: 
     output: false
     sort_by: order

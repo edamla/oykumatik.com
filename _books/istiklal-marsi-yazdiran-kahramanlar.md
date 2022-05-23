@@ -2,8 +2,9 @@
 layout: book
 title:  "İstiklal Marşı Yazdıran Kahramanlar 10 Kitap"
 authors: ["Sara Gürbüz Özeren"]
-grades: ["3", "4"]
+grades: [3,4]
 concepts: [""]
+subjects: ["Tema1", "Tema2"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254112560.jpg

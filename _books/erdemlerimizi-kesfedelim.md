@@ -2,8 +2,9 @@
 layout: book
 title:  "Erdemlerimizi Keşfedelim 10 Kitap"
 authors: ["Sara Gürbüz Özeren"]
-grades: ["2"]
+grades: [2]
 concepts: [""]
+subjects: ["Tema1", "Tema2", "Tema3", "Tema4"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831181.jpg

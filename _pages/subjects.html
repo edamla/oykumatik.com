@@ -1,0 +1,46 @@
+---
+title: "Temalar"
+layout: default
+permalink: "/temalar"
+---
+
+<div class="container">
+
+<h4 class="font-weight-bold spanborder mt-3"><span>{{page.title}}</span></h4>
+
+        {% assign arrsubjects = "" | split: "," %}
+        <!-- Burada konu listesi oluştur.     -->
+        {% for book in site.books %}
+            {% if book.subjects != "" %}
+                {% for subject in book.subjects %}
+                    <!-- kitaplardan konu listelerini al listeye ekle -->
+                    {% assign arrsubjects = arrsubjects | push: subject %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+        <!-- Tekrar eden listeleri kaldır. -->
+        {% assign uniqsubjectarray = arrsubjects | uniq %}
+
+        
+        {% for subject in uniqsubjectarray %}
+                <h4 class="font-weight-bold spanborder mt-3"><span>{{subject}}</span></h4>
+                {% assign books = site.books | where: 'subjects', subject | sort: "grades"%}
+                <div class="row gap-y listrecent listauthor">
+                {% for book in books %}
+                    <div class="col-12 col-sm-3 p-4 border rounded kitap-kutu">
+                        <a class="baslik-link" href="{{ book.url }}"">            
+                            <img class="cover-images" src="{{site.baseurl}}/{{ book.image }}" alt="">
+                            <h4 class="text-dark mb-0"> {{ book.title }} </h4>
+                            <h5 class="d-inline-block mt-2 mb-1 font-weight-normal">Sınıf:</h5>
+                            {% for bookgrade in book.grades %}
+                                <h5 class="d-inline-block mt-2 mb-1 font-weight-normal">{{bookgrade}}</h5>
+                                {% if forloop.last == false %},{% endif %}
+                            {% endfor %}
+                        </a>
+                    </div>  
+                {% endfor %}
+            </div>
+        {% endfor %}
+
+
+</div>
