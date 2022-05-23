@@ -53,11 +53,6 @@ permalink: "/siniflar"
                         <a class="baslik-link" href="{{ book.url }}"">            
                             <img class="cover-images" src="{{site.baseurl}}/{{ book.image }}" alt="">
                             <h4 class="text-dark mb-0"> {{ book.title }} </h4>
-                            <h5 class="d-inline-block mt-2 mb-1 font-weight-normal">Sınıf:</h5>
-                            {% for bookgrade in book.grades %}
-                                <h5 class="d-inline-block mt-2 mb-1 font-weight-normal">{{bookgrade}}</h5>
-                                {% if forloop.last == false %},{% endif %}
-                            {% endfor %}
                         </a>
                     </div>  
                 {% endfor %}
