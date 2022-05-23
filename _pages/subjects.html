@@ -26,7 +26,7 @@ permalink: "/temalar"
             <!-- toogle sınıf -->
     
             <div class="col-lg-3 mb-5">
-                <a href="javascript:document.querySelector('.konu-{{subject}}').classList.toggle('d-none')">
+                <a href="javascript:document.querySelector('.konu-{{subject | downcase | slugify: 'latin'}}').classList.toggle('d-none')">
                 <div class="p-4 border rounded">
                     <div class="row">
                         <div class="col-md-12 d-flex justify-content-between mb-4 mb-md-1"><img alt="{{subject}}. Sınıf" src="/assets/images/oykumatik.png" class="rounded-circle" height="100%" width="100%"></div>
@@ -43,7 +43,7 @@ permalink: "/temalar"
 
         
         {% for subject in uniqsubjectarray %}
-        <div class="konu-{{subject}} d-none">
+        <div class="konu-{{subject | downcase | slugify: 'latin' }} d-none">
                 <h4 class="font-weight-bold spanborder mt-3"><span>{{subject}}</span></h4>
                 {% assign books = site.books | where: 'subjects', subject | sort: "grades"%}
                 <div class="row gap-y listrecent listauthor">
