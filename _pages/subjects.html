@@ -25,13 +25,13 @@ permalink: "/temalar"
             {% for subject in uniqsubjectarray %}
             <!-- toogle sınıf -->
     
-            <div class="col-lg-3 mb-5">
-                <a href="javascript:document.querySelector('.konu-{{subject | downcase | slugify: 'latin'}}').classList.toggle('d-none')">
-                <div class="p-4 border rounded">
+            <div class="col-lg-2 mb-3">
+                <a href="#konu_{{subject | downcase | slugify: 'latin'}}" onclick="document.querySelector('.konu-{{subject | downcase | slugify: 'latin'}}').classList.toggle('d-none');return false;">
+                <div class="p-2 border rounded">
                     <div class="row">
-                        <div class="col-md-12 d-flex justify-content-between mb-4 mb-md-1"><img alt="{{subject}}. Sınıf" src="/assets/images/oykumatik.png" class="rounded-circle" height="100%" width="100%"></div>
+                        <div class="col-md-12 d-flex justify-content-between mb-1 mb-md-1"><img alt="{{subject}}. Sınıf" src="/assets/images/oykumatik.png" class="rounded-circle" height="100%" width="100%"></div>
                         <div class="col-md-12">
-                                <h5 class="text-dark mb-0 justify-content-center text-center"> {{subject}} </h5>
+                                <h6 class="text-dark mb-0 justify-content-between text-center text-nowrap"> {{subject}} </h6>
                         </div>
                     </div>
                 </div>
@@ -43,8 +43,8 @@ permalink: "/temalar"
 
         
         {% for subject in uniqsubjectarray %}
-        <div class="konu-{{subject | downcase | slugify: 'latin' }} d-none">
-                <h4 class="font-weight-bold spanborder mt-3"><span>{{subject}}</span></h4>
+        <div class="konu konu-{{subject | downcase | slugify: 'latin' }} d-none">
+                <h4 class="font-weight-bold spanborder mt-3" id="konu_{{subject | downcase | slugify: 'latin'}}"><span>{{subject}}</span></h4>
                 {% assign books = site.books | where: 'subjects', subject | sort: "grades"%}
                 <div class="row gap-y listrecent listauthor">
                 {% for book in books %}
