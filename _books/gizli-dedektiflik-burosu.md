@@ -4,7 +4,7 @@ title:  "Gizli Dedektiflik Bürosu 10 Kitap"
 authors: ["Esra Avgoren"]
 grades: [4]
 concepts: [""]
-subjects: ["Sosyal Kontrol", "Toplumsal Duyarlılık", "Kişisel Gelişim" , "Birey ve Toplum" , "Takım Ruhu "]
+subjects: ["Sosyal Kontrol", "Toplumsal Duyarlılık", "Kişisel Gelişim" , "Birey ve Toplum" , "Takım Ruhu"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053833413.jpg
