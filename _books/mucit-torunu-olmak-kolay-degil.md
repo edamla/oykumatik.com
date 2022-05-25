@@ -4,7 +4,7 @@ title:  "Mucit Torunu Olmak Kolay Değil 5 Kitap"
 authors: ["Nur Dombaycı"]
 grades: [2,3]
 concepts: ["sozel-dilsel","sosyal","icsel","doga"]
-subjects: ["Tema3"]
+subjects: ["Sosyal Beceriler"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/bas.jpg

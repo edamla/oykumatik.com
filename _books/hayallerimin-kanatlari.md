@@ -4,7 +4,7 @@ title:  "Hayallerimin Kanatları 10 Kitap"
 authors: ["Sara Gürbüz Özeren"]
 grades: [4, 5]
 concepts: ["gorsel-uzamsal","bedensel-kinestetik","mantiksal-matematiksel","icsel","doga"]
-subjects: ["Tema1", "Tema2"]
+subjects: ["İcatlar ve Keşifler", "Başarı" , "Engelliler" , "Motivasyon"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051745374.jpg

@@ -4,7 +4,7 @@ title:  "Hayat Bilgisi Öyküleri 10 Kitap"
 authors: ["Seda Bilgin"]
 grades: [2,3]
 concepts: [""]
-subjects: ["Tema1"]
+subjects: []
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254112676.jpg

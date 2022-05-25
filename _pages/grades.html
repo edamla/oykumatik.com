@@ -25,13 +25,25 @@ permalink: "/siniflar"
         {% for grade in uniqgradesarray %}
         <!-- toogle sınıf -->
 
-        <div class="col-lg-2 mb-3">
+        <!-- <div class="col-lg-2 mb-3">
             <a href="#sinif_{{grade}}" onclick="ackapa('.sinif-{{grade}}');return false;">
             <div class="p-4 border rounded">
                 <div class="row">
-                    <div class="col-md-12 d-flex justify-content-between mb-4 mb-md-1"><img alt="{{grade}}. Sınıf" src="/assets/images/oykumatik.png" class="rounded-circle" height="100%" width="100%"></div>
+                    <div class="col-md-12 d-flex justify-content-between mb-1 mb-md-1"></div>
                     <div class="col-md-12">
                             <h5 class="text-dark mb-0 justify-content-center text-center"> {{grade}}. Sınıf </h5>
+                    </div>
+                </div>
+            </div>
+        </a>
+        </div> -->
+        <div class="col-lg-2 mb-3">
+            <a href="#sinif_{{subject | downcase | slugify: 'latin'}}" onclick="ackapa('.sinif-{{grade | downcase | slugify: 'latin'}}');return false;">
+            <div class="p-2 border rounded">
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-between mb-1 mb-md-1"></div>
+                    <div class="col-md-12">
+                            <h6 class="text-dark mb-0 justify-content-between text-center text-nowrap">  {{grade}}. Sınıf </h6>
                     </div>
                 </div>
             </div>
