@@ -2,9 +2,9 @@
 layout: book
 title:  "Alican'ın Günlüğü 10 Kitap"
 authors: ["Nehir Aydın Gökduman"]
-grades: [2 , 3]
+grades: [2 ,3]
 concepts: ["gorsel-uzamsal","sosyal","doga"]
-subjects: ["Tema1", "Tema2", "Tema3"]
+subjects: ["Değerler / Erdemler "]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831303.jpg
