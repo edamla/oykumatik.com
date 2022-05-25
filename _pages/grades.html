@@ -25,8 +25,8 @@ permalink: "/siniflar"
         {% for grade in uniqgradesarray %}
         <!-- toogle sınıf -->
 
-        <div class="col-lg-3 mb-5">
-            <a href="javascript:document.querySelector('.sinif-{{grade}}').classList.toggle('d-none')">
+        <div class="col-lg-2 mb-3">
+            <a href="#sinif_{{grade}}" onclick="ackapa('.sinif-{{grade}}');return false;">
             <div class="p-4 border rounded">
                 <div class="row">
                     <div class="col-md-12 d-flex justify-content-between mb-4 mb-md-1"><img alt="{{grade}}. Sınıf" src="/assets/images/oykumatik.png" class="rounded-circle" height="100%" width="100%"></div>
@@ -44,8 +44,8 @@ permalink: "/siniflar"
         
 
         {% for grade in uniqgradesarray %}
-        <div class="sinif-{{grade}} d-none">
-                <h4 class="font-weight-bold spanborder mt-3"><span>{{grade}}. Sınıf</span></h4>
+        <div class="sinif sinif-{{grade}} d-none">
+                <h4 class="font-weight-bold spanborder mt-3"  id="sinif_{{grade}}"><span>{{grade}}. Sınıf</span></h4>
                 {% assign books = site.books | where: 'grades', grade | sort: "grade"%}
                 <div class="row gap-y listrecent listauthor">
                 {% for book in books %}
@@ -62,3 +62,14 @@ permalink: "/siniflar"
 
 
 </div>
+
+<script>
+    // document.querySelector('.sinif-{{grade}}').classList.toggle('d-none')
+    // document.querySelector('.konu-{{subject | downcase | slugify: 'latin'}}').classList.toggle('d-none')
+    function ackapa(className) {
+        document.querySelectorAll('.sinif').forEach(function(el) {
+            el.classList.add('d-none');
+        });
+        document.querySelector(className).classList.toggle('d-none');
+    }
+</script>

@@ -26,7 +26,7 @@ permalink: "/temalar"
             <!-- toogle sınıf -->
     
             <div class="col-lg-2 mb-3">
-                <a href="#konu_{{subject | downcase | slugify: 'latin'}}" onclick="document.querySelector('.konu-{{subject | downcase | slugify: 'latin'}}').classList.toggle('d-none');return false;">
+                <a href="#konu_{{subject | downcase | slugify: 'latin'}}" onclick="ackapa('.konu-{{subject | downcase | slugify: 'latin'}}');return false;">
                 <div class="p-2 border rounded">
                     <div class="row">
                         <div class="col-md-12 d-flex justify-content-between mb-1 mb-md-1"><img alt="{{subject}}. Sınıf" src="/assets/images/oykumatik.png" class="rounded-circle" height="100%" width="100%"></div>
@@ -66,3 +66,13 @@ permalink: "/temalar"
 
 
 </div>
+
+<script>
+    // document.querySelector('.konu-{{subject | downcase | slugify: 'latin'}}').classList.toggle('d-none')
+    function ackapa(className) {
+        document.querySelectorAll('.konu').forEach(function(el) {
+            el.classList.add('d-none');
+        });
+        document.querySelector(className).classList.toggle('d-none');
+    }
+</script>
