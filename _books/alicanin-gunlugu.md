@@ -8,7 +8,7 @@ subjects: ["Değerler / Erdemler"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223028.jpg
-examimage: assets/images/ean/8697911223028.jpg
+examimage: assets/images/ean/8697911223028-1.jpg
 examlink: alicanin-gunulugu.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
@@ -61,7 +61,7 @@ Macera dolu kitaplarda; yardımlaşma, hayvan sevgisi, dayanışma, araştırma,
 9- Kaplanlar Dondurma Yemez<br>
 10- Çiko Nerede?
 
-<img style="height: 50vh" src="/assets/images/ean/8697911223028.jpg" alt="">
+<img style="height: 50vh" src="/assets/images/ean/8697911223028-1.jpg" alt="">
 
 <!--more--> 
 
