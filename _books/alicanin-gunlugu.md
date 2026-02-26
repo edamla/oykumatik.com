@@ -7,15 +7,16 @@ concepts: ["gorsel-uzamsal","sosyal","doga"]
 subjects: ["Değerler / Erdemler"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786053831303.jpg
-examimage: assets/images/ean/8697911208629.jpg
+image: assets/images/ean/8697911223028.jpg
+examimage: assets/images/ean/8697911223028.jpg
+examlink: alicanin-gunulugu.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
-ean: 9786053831303
-examean: 8697911208629
+ean: 8697911223028
+examean: 8697911223028
 languages: ["Türkçe"]
 page: Her Biri 48
 size: "14x20cm"
@@ -33,7 +34,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi:  "https://www.damlayayinevi.com.tr/alican-in-gunlugu-10-kitap"
+damlayayinevi: "https://www.damlayayinevi.com.tr/alicanin-gunlugu-10-kitap-43600"
 
 # For adding excerpt add <!--more--> and break the line
 ---
@@ -60,7 +61,7 @@ Macera dolu kitaplarda; yardımlaşma, hayvan sevgisi, dayanışma, araştırma,
 9- Kaplanlar Dondurma Yemez<br>
 10- Çiko Nerede?
 
-<img style="height: 50vh" src="/assets/images/ean/8697911208629.jpg" alt="">
+<img style="height: 50vh" src="/assets/images/ean/8697911223028.jpg" alt="">
 
 <!--more--> 
 

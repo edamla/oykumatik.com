@@ -7,15 +7,16 @@ concepts: [""]
 subjects: ["Sosyal Kontrol", "Toplumsal Duyarlılık", "Kişisel Gelişim" , "Birey ve Toplum" , "Takım Ruhu"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786053833413.jpg
-examimage: assets/images/ean/8697911217638.jpg
+image: assets/images/ean/8697911223080.jpg
+examimage: assets/images/ean/8697911223080.jpg
+examlink: gizlik_dedektiflik.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
-ean: 9786053833413
-examean: 8697911217638
+ean: 8697911223080
+examean: 8697911223080
 languages: ["Türkçe"]
 page: Her Biri 80
 size: "14x20cm"
@@ -33,7 +34,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: # "https://www.damlayayinevi.com.tr/mucit-torunu-olmak-kolay-degil"
+damlayayinevi: "https://www.damlayayinevi.com.tr/gizli-dedektiflik-burosu-10-kitap-43598"
 
 # For adding excerpt add <!--more--> and break the line
 ---

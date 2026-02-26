@@ -9,6 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254112676.jpg
 examimage: assets/images/ean/8697911219199.jpg
+examlink: hayat-bilgisi-oykuleri.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
@@ -33,7 +34,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: # "https://www.damlayayinevi.com.tr/mucit-torunu-olmak-kolay-degil"
+damlayayinevi: "https://www.damlayayinevi.com.tr/hayat-bilgisi-oykuleri-10-kitap-43602"
 
 # For adding excerpt add <!--more--> and break the line
 ---

@@ -19,8 +19,13 @@ youtube: #'https://www.youtube.com/c/DamlaYay%C4%B1nevi%C4%B0stanbul'
 
 pagepreview:
   enabled: true
-  prefix: 'https://cdn.e-damla.com.tr/damlayayinevi_ornek_sayfalar/'
+  prefix: 'https://cdn.e-damla.com.tr/PUBLIC/ornek-sayfalar/'
   postfix: '/index.html'
+  
+examlink:
+  enabled: true
+  prefix: 'https://cdn.e-damla.com.tr/PUBLIC/hds_pdf/'
+
 
 include: ["_pages"]
 permalink: /:title/

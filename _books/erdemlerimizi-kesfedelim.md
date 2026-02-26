@@ -9,6 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831181.jpg
 examimage: assets/images/ean/8697911210790.jpg
+examlink: erdemlerimizi_kesfedelim.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
@@ -33,7 +34,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: # "https://www.damlayayinevi.com.tr/mucit-torunu-olmak-kolay-degil"
+damlayayinevi: "https://www.damlayayinevi.com.tr/cilgin-dedemin-zaman-makinesi-1-gecmisten-gelecege-icatlar-ve-kesifler-10-kitap-43637"
 
 # For adding excerpt add <!--more--> and break the line
 ---

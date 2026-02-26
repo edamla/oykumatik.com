@@ -9,6 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254112560.jpg
 examimage: assets/images/ean/8697911219137.jpg
+examlink: 
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

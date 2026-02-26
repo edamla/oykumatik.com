@@ -62,8 +62,10 @@ layout: default
 							{% if book.youtube %}
 							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" target="_blank" href="{{ book.youtube }}"><i class="fab fa-youtube fa-2x text-danger" aria-hidden="true"></i><span class="font-weight-bold btn-sm">Tanıtım</span></a>  &nbsp;
 							{% endif %}
-							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" href="https://www.damlayayinevi.com.tr/go?sku={{book.ean}}" target="_blank"><i class="fas fa-shopping-cart fa-2x text-success" aria-hidden="true"></i><span class="font-weight-bold btn-sm">E-Satış</span></a>  &nbsp;
-
+							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" href="{{book.damlayayinevi}}" target="_blank"><i class="fas fa-shopping-cart fa-2x text-success" aria-hidden="true"></i><span class="font-weight-bold btn-sm">E-Satış</span></a>  &nbsp;
+							{% if site.examlink.enabled == true and book.examlink %}
+							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" target="_blank" href="{{ site.examlink.prefix }}{{ book.examlink }}"><i class="fas fa-pen fa-2x text-danger" aria-hidden="true"></i><span class="font-weight-bold btn-sm">HDS Sınavı</span></a>  &nbsp;
+							{% endif %}
 						</div>
 
 					</div>
