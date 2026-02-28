@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831952.jpg
 examimage: assets/images/ean/8697911217003.jpg
-examlink: cilgin-dede-icatlar-hds.pdf
+examlink: icatlar-kesifler-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

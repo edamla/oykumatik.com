@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223028.jpg
 examimage: assets/images/ean/8697911223028-1.jpg
-examlink: alicanin-gunulugu.pdf
+examlink: alican-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

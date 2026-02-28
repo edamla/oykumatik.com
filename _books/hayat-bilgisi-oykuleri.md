@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254112676.jpg
 examimage: assets/images/ean/8697911219199.jpg
-examlink: hayat-bilgisi-oykuleri.pdf
+examlink: hayat-bilgisi-oykuleri-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
