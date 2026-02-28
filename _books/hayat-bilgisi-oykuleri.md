@@ -15,7 +15,7 @@ tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
-ean: 9786254112676
+ean: 8697911223004
 examean: 8697911219199
 languages: ["Türkçe"]
 page: Her Biri 48

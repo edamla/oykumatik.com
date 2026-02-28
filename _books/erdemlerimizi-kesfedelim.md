@@ -34,7 +34,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/asik-suratli-cocuk-2-bocek-istilasi"
-damlayayinevi: "https://www.damlayayinevi.com.tr/cilgin-dedemin-zaman-makinesi-1-gecmisten-gelecege-icatlar-ve-kesifler-10-kitap-43637"
+damlayayinevi: "https://www.damlayayinevi.com.tr/erdemlerimizi-kesfedelim-10-kitap"
 
 # For adding excerpt add <!--more--> and break the line
 ---
