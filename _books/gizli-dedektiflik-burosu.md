@@ -8,8 +8,8 @@ subjects: ["Sosyal Kontrol", "Toplumsal Duyarlılık", "Kişisel Gelişim" , "Bi
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223080.jpg
-examimage: assets/images/ean/8697911223080.jpg
-examlink: gizlik_dedektiflik.pdf
+examimage: assets/images/ean/8697911223080-1.jpg
+examlink: gizli-dedektiflik-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

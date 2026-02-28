@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223530.jpg
 examimage: assets/images/ean/8697911223530-1.jpg
-examlink: eeee
+examlink: robot-avcilari-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

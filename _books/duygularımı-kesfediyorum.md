@@ -8,7 +8,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223752.jpg
 examimage: assets/images/ean/8697911223752-1.jpg
-examlink: eeee
+examlink: duygularimi-kesfediyorum-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223516.jpg
 examimage: assets/images/ean/8697911223516-1.jpg
-examlink: eeee
+examlink: o-bir-dahi-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

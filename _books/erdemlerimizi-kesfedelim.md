@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053831181.jpg
 examimage: assets/images/ean/8697911210790.jpg
-examlink: erdemlerimizi_kesfedelim.pdf
+examlink: erdemlerimizi-kesfedelim-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

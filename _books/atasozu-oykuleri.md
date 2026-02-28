@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053832768.jpg
 examimage: assets/images/ean/9786053832768-1.jpg
-examlink: deyim_oykuleri.pdf
+examlink: atasozu-oykuleri-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true

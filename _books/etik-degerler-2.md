@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223875.jpg
 examimage: assets/images/ean/8697911223875-1.jpg
-examlink: eeeeee
+examlink: etik-degerler2-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
