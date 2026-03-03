@@ -9,7 +9,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/8697911223950.jpg
 examimage: assets/images/ean/8697911223950-1.jpg
-examlink: c%C4%B1lg%C4%B1n-dede-masal-makinesi.pdf
+examlink: masal-makinesi-y.pdf
 categories: [ "Çocuk", "Hikaye" ]
 tags: [ "hikaye"]
 previewpage: true
